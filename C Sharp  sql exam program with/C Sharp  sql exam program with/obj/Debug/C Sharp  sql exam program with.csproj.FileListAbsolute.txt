@@ -1,0 +1,17 @@
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\bin\Debug\C Sharp  sql exam program with.exe.config
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\bin\Debug\C Sharp  sql exam program with.exe
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\bin\Debug\C Sharp  sql exam program with.pdb
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C Sharp  sql exam program with.csprojAssemblyReference.cache
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.adminpanel.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.conclusion.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.exam.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.Form1.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.Member_Transactions.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.Properties.Resources.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.Question_Procedures.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.questionchange.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C_Sharp__sql_exam_program_with.signin.resources
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C Sharp  sql exam program with.csproj.GenerateResource.cache
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C Sharp  sql exam program with.csproj.CoreCompileInputs.cache
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C Sharp  sql exam program with.exe
+C:\Users\ferha\source\repos\C Sharp  sql exam program with\C Sharp  sql exam program with\obj\Debug\C Sharp  sql exam program with.pdb
